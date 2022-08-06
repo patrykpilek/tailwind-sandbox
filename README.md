@@ -1,7 +1,7 @@
 # Tailwind Sandbox
 
 - [x] Utility First Example
-- [ ] Colors
+- [x] Colors
 - [ ] Container & Spacing
 - [ ] Typography
 - [ ] Sizing
