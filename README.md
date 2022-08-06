@@ -1,6 +1,6 @@
 # Tailwind Sandbox
 
-- [ ] Utility First Example
+- [x] Utility First Example
 - [ ] Colors
 - [ ] Container & Spacing
 - [ ] Typography
