@@ -4,7 +4,7 @@
 - [x] Colors
 - [x] Container & Spacing
 - [x] Typography
-- [ ] Sizing
+- [x] Sizing
 - [ ] Layout & Position
 - [ ] Backgrounds & Shadows
 - [ ] Borders & Border Radius
