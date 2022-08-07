@@ -3,7 +3,7 @@
 - [x] Utility First Example
 - [x] Colors
 - [x] Container & Spacing
-- [ ] Typography
+- [x] Typography
 - [ ] Sizing
 - [ ] Layout & Position
 - [ ] Backgrounds & Shadows
