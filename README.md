@@ -2,7 +2,7 @@
 
 - [x] Utility First Example
 - [x] Colors
-- [ ] Container & Spacing
+- [x] Container & Spacing
 - [ ] Typography
 - [ ] Sizing
 - [ ] Layout & Position
