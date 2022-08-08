@@ -6,7 +6,7 @@
 - [x] Typography
 - [x] Sizing
 - [x] Layout & Position
-- [ ] Backgrounds & Shadows
+- [X] Backgrounds & Shadows
 - [ ] Borders & Border Radius
 - [ ] Filters
 - [ ] Interactivity
