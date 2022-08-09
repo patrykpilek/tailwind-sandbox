@@ -9,7 +9,7 @@
 - [X] Backgrounds & Shadows
 - [x] Borders & Border Radius
 - [x] Filters
-- [ ] Interactivity
+- [x] Interactivity
 - [ ] Breakpoints
 - [ ] Column Layouts
 - [ ] Flexbox
