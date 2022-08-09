@@ -8,7 +8,7 @@
 - [x] Layout & Position
 - [X] Backgrounds & Shadows
 - [x] Borders & Border Radius
-- [ ] Filters
+- [x] Filters
 - [ ] Interactivity
 - [ ] Breakpoints
 - [ ] Column Layouts
