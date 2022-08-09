@@ -7,7 +7,7 @@
 - [x] Sizing
 - [x] Layout & Position
 - [X] Backgrounds & Shadows
-- [ ] Borders & Border Radius
+- [x] Borders & Border Radius
 - [ ] Filters
 - [ ] Interactivity
 - [ ] Breakpoints
