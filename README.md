@@ -12,7 +12,7 @@
 - [x] Interactivity
 - [x] Breakpoint
 - [x] Column Layouts
-- [ ] Flexbox
+- [x] Flexbox
 - [ ] Grid
 - [ ] Transform & Transitions
 - [ ] Animation
