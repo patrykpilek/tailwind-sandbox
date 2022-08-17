@@ -10,6 +10,7 @@
 - [x] Borders & Border Radius
 - [x] Filters
 - [x] Interactivity
+- [x] Breakpoint
 - [x] Column Layouts
 - [ ] Flexbox
 - [ ] Grid
