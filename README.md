@@ -14,7 +14,7 @@
 - [x] Column Layouts
 - [x] Flexbox
 - [x] Grid
-- [ ] Transform & Transitions
+- [x] Transform & Transitions
 - [ ] Animation
 - [ ] Customization & Config
 - [ ] Dark Mode
