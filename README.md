@@ -13,7 +13,7 @@
 - [x] Breakpoint
 - [x] Column Layouts
 - [x] Flexbox
-- [ ] Grid
+- [x] Grid
 - [ ] Transform & Transitions
 - [ ] Animation
 - [ ] Customization & Config
