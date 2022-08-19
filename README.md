@@ -16,5 +16,5 @@
 - [x] Grid
 - [x] Transform & Transitions
 - [x] Animation
-- [ ] Customization & Config
+- [x] Customization & Config
 - [ ] Dark Mode
