@@ -15,6 +15,6 @@
 - [x] Flexbox
 - [x] Grid
 - [x] Transform & Transitions
-- [ ] Animation
+- [x] Animation
 - [ ] Customization & Config
 - [ ] Dark Mode
