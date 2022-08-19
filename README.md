@@ -17,4 +17,4 @@
 - [x] Transform & Transitions
 - [x] Animation
 - [x] Customization & Config
-- [ ] Dark Mode
+- [x] Dark Mode
